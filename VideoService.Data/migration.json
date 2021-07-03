@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DbContext": "Server=db;Database=master;User=sa;Password=Your_password123;"
+  }
+}
