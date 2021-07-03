@@ -1,0 +1,13 @@
+.dockerignore
+.env
+.gitignore
+.vs
+.vscode
+docker-compose.yml
+docker-compose.*.yml
+*/bin
+*/obj
+
+# Resharper
+**/_ReSharper.*/**
+*.resharper.user
