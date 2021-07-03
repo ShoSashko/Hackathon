@@ -2,17 +2,16 @@
 
 ## Summary
 
-<Put here description of your tech decisions>
+The project is aggregating user/videos relations
 
 ## Run
 
-<Put here steps to run your solution>
-
-_Example_
 
 ```bash
-# Go into the folder with solution and run:
+# Go into the root and run
 $ docker-compose up
+  
+open project on http://localhost:9091
 ```
 
 ## Test
@@ -25,7 +24,3 @@ _Example_
 # Go into the folder with solution and run:
 $ dotnet test NameOfYourSolution.sln
 ```
-
-## Notes
-
-<Put here your notes if you have some>
